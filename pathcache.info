@@ -1,0 +1,5 @@
+name = Path Cache
+description = Perform path caching for better URL alias performance.
+dependencies[] = path
+package = Caching
+core = 7.x
